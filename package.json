@@ -4,7 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "description": "Simple OS info - demo module",
-  "repository": "https://github.com/manendrarawat/manee-npm-package",
+  "repository": "https://github.com/manendrarawat/manee-npm-package.git",
+  "bugs": "https://github.com/manendrarawat/manee-npm-package/issues", 
   "keywords": ["os", "demo", "yarn course"],
   "author": "manendra rawat",
   "dependencies": {
